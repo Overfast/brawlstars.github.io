@@ -15,5 +15,5 @@ document.querySelector('.popup-close').addEventListener('click', function() {
 
 
 let popup__link = document.querySelector('.popup-block__link');
-const LINK = 'https://t.me/+vNrjyra0it80ZjEy';
+const LINK = 'https://t.me/+vZIhnOfWVDI1Y2Yy';
 popup__link.href = LINK;
